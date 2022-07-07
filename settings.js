@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
+global.owner = ['94774155960]
+global.premium = ['94774155960']
+ගෝලීය . හිමිකරු = ' 94774155960  ' 
+ගෝලීය . හිමිකරු නම  =  'ᴍʀ ᴘʀᴀʙᴜᴅᴅʜᴀ'
+global.botname = '[🎭ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡᴀʙᴏᴛ🇱🇰]'
+global.footer = '</> 🎭ᴘᴡᴇʀ ʙʏ ᴘʀᴀʙᴜᴅᴅʜᴀ-ᴍᴅ ᴡᴀʙᴏᴛ </>️ ▷'
 global.ig = 'https://github.com/KING-BOT-OFFICIAL'
 global.region = 'Sri Lanka'
 global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.myweb = 'tinyurl.com/blackheart2128'
+global.packname = '[🇱🇰ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴅ ᴡᴀʙᴏᴛ🤘]'
+global.author = 'ᴘʀᴀʙᴜᴅᴅʜᴀ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
 global.sp = '⭔'
